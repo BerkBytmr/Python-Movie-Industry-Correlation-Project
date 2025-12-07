@@ -1,47 +1,22 @@
 # Python-Movie-Industry-Correlation-Project
 finding correlations in the dataset using Python
 
-Movie Industry Data Analysis – Correlation Insights
-Overview
+# 🎬 Movie Industry Data Analysis – Correlation Insights
 
-A Python project analyzing a movie industry dataset to explore relationships between key numerical features. The project demonstrates end-to-end data analysis, from cleaning to visualization.
+## 🔹 Overview
 
-Steps
+A Python project analyzing a movie industry dataset to explore **relationships between key numerical features**. The project demonstrates end-to-end data analysis, from cleaning to visualization.
 
-Import Libraries – pandas, numpy, matplotlib, seaborn
+## 📝 Steps
 
-Load Dataset – read the movie industry dataset into a DataFrame
+1. **Import Libraries** – `pandas`, `numpy`, `matplotlib`, `seaborn`
+2. **Load Dataset** – read the movie industry dataset into a DataFrame
+3. **Check Missing Data** – inspect nulls and percentages
+4. **Data Cleaning** – handle missing values and correct data types
+5. **Correlation Analysis** – calculate correlations and visualize using a heatmap
+6. **Findings** – identify strong relationships (e.g., `budget` vs `gross`)
 
-Check Missing Data – inspect nulls and percentages
+## 🛠 Tools
 
-Data Cleaning – handle missing values and correct data types
-
-Correlation Analysis – calculate correlations and visualize using a heatmap
-
-Findings – identify strong relationships (e.g., budget vs gross)
-
-Tools
-
-Python 3.x
-
-pandas, numpy, matplotlib, seaborn
-
-Jupyter Notebook / VS Code
-
-How to Run
-git clone <your-repo-link>
-pip install pandas numpy matplotlib seaborn
-
-Open the notebook in Jupyter or VS Code and run all cells.
-
-Outcome
-
-Cleaned and explored the dataset
-
-Visualized correlations clearly
-
-Identified key relationships between numerical features
-
-Author
-
-Your Name – Junior Data Analyst | GitHub: [your-github-link]
+* Python 3.x
+* `pandas`, `numpy`, `matpl
