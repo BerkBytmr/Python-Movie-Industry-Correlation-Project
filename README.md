@@ -19,4 +19,4 @@ A Python project analyzing a movie industry dataset to explore **relationships b
 ## 🛠 Tools
 
 * Python 3.x
-* `pandas`, `numpy`, `matpl
+* `pandas`, `numpy`, `matploblib`, `seaborn`
