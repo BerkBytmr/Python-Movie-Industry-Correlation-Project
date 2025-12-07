@@ -1,59 +1,47 @@
 # Python-Movie-Industry-Correlation-Project
 finding correlations in the dataset using Python
 
-- Project Overview
+Movie Industry Data Analysis – Correlation Insights
+Overview
 
-This project explores a dataset from the movie industry and focuses on understanding relationships between key numerical features using correlation analysis. The goal is to identify which variables are most strongly related and to practice end-to-end data analysis skills.
+A Python project analyzing a movie industry dataset to explore relationships between key numerical features. The project demonstrates end-to-end data analysis, from cleaning to visualization.
 
-- Steps Performed
+Steps
 
-Importing Libraries
-Essential Python libraries for data analysis and visualization were imported:
+Import Libraries – pandas, numpy, matplotlib, seaborn
 
-pandas – for data manipulation
+Load Dataset – read the movie industry dataset into a DataFrame
 
-numpy – for numerical operations
+Check Missing Data – inspect nulls and percentages
 
-matplotlib & seaborn – for visualization
+Data Cleaning – handle missing values and correct data types
 
-Reading the Dataset
-The movie industry dataset was loaded into a Pandas DataFrame for analysis.
+Correlation Analysis – calculate correlations and visualize using a heatmap
 
-Checking Missing Data
-Inspected the dataset for missing values and calculated percentages of nulls per column.
+Findings – identify strong relationships (e.g., budget vs gross)
 
-Data Cleaning
-
-Handled missing data where necessary
-
-Converted columns to appropriate data types
-
-Standardized column names
-
-Correlation Analysis
-
-Calculated correlation coefficients between numerical features
-
-Visualized correlations using a heatmap for better interpretability
-
--Findings
-
-Identified the strongest correlations in the dataset
-
-Highlighted interesting relationships between features such as budget, gross, and other numerical variables
-
--Tools & Technologies
+Tools
 
 Python 3.x
 
-Pandas, NumPy, Matplotlib, Seaborn
+pandas, numpy, matplotlib, seaborn
 
 Jupyter Notebook / VS Code
 
--Key Takeaways
+How to Run
+git clone <your-repo-link>
+pip install pandas numpy matplotlib seaborn
 
-Hands-on practice of data cleaning and preprocessing
+Open the notebook in Jupyter or VS Code and run all cells.
 
-Understanding correlation and its significance in exploratory data analysis
+Outcome
 
-Experience in presenting analytical findings visually with heatmaps and scatterplots
+Cleaned and explored the dataset
+
+Visualized correlations clearly
+
+Identified key relationships between numerical features
+
+Author
+
+Your Name – Junior Data Analyst | GitHub: [your-github-link]
