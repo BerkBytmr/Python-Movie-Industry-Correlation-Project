@@ -1,11 +1,11 @@
 # Python-Movie-Industry-Correlation-Project
 finding correlations in the dataset using Python
 
-Project Overview
+- Project Overview
 
 This project explores a dataset from the movie industry and focuses on understanding relationships between key numerical features using correlation analysis. The goal is to identify which variables are most strongly related and to practice end-to-end data analysis skills.
 
-Steps Performed
+- Steps Performed
 
 Importing Libraries
 Essential Python libraries for data analysis and visualization were imported:
@@ -36,13 +36,13 @@ Calculated correlation coefficients between numerical features
 
 Visualized correlations using a heatmap for better interpretability
 
-Findings
+-Findings
 
 Identified the strongest correlations in the dataset
 
 Highlighted interesting relationships between features such as budget, gross, and other numerical variables
 
-Tools & Technologies
+-Tools & Technologies
 
 Python 3.x
 
@@ -50,7 +50,7 @@ Pandas, NumPy, Matplotlib, Seaborn
 
 Jupyter Notebook / VS Code
 
-Key Takeaways
+-Key Takeaways
 
 Hands-on practice of data cleaning and preprocessing
 
